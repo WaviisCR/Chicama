@@ -1,0 +1,49 @@
+.sumate{
+    width: 140px;
+    height: 50px;
+    background-color: #FCB739;
+    text-align: center;
+    margin-top: 18%;
+    margin-left: 46%;
+    padding-top: 3%;
+}
+.a-header{
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    margin-top: 80px;
+}
+.logo img{
+    width: 85%;
+}
+header{
+    background-image: url(../img/grupal.jpg);
+    background-repeat: no-repeat;
+    height: 637px;
+    background-size: 100%
+}
+.ff-lato{
+	font-family: 'Lato', sans-serif;
+}
+.img-siz{
+	width: 100%;
+}
+.container-fluid{
+    width: 100%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+h3{
+    text-decoration: underline;
+    text-align: left;
+}
+footer{
+    background-color: #323230;
+}
+footer p{
+    color: white;
+}
+.foot-height{
+    height: 90px;
+}
